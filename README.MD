@@ -7,7 +7,7 @@ created with scaling or production environments in mind.
 ## Starting
 To start it up just use:
 
-`docker run -it -p 8080:8080 plasmatrout/windows-sling`
+`docker run -it -p 8080:8080 programmervsworld/windowsservercore-sling`
 
 ## Stopping
 
